@@ -29,13 +29,13 @@ php artisan serve
 ```
 POST http://127.0.0.1:8000/api/login
 {
-    "email": "john.doe@example.com",
+    "email": "alex@t-alex.ro",
     "password": "password123"
 }
 POST http://127.0.0.1:8000/api/register
 {
-    "name": "John Doe",
-    "email": "john.doe@example.com",
+    "name": "Alex Tanasie",
+    "email": "alex@t-alex.ro",
     "password": "password123"
 }
 GET http://127.0.0.1:8000/api/user
