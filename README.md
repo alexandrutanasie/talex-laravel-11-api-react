@@ -46,3 +46,7 @@ cd frontend/
 npm install
 npm start
 ```
+## Route
+```
+http://localhost:3000
+```
